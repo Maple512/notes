@@ -5,3 +5,8 @@
 ## blogs
 
 - [microsoft dev blogs](https://devblogs.microsoft.com/dotnet) `dotnet` `microsoft`
+
+
+## tools
+
+- [visual studio memory profile](https://docs.microsoft.com/en-us/visualstudio/profiling/memory-usage?view=vs-2019) `visual studio` `memory`
