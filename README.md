@@ -3,6 +3,7 @@
 ## articles
 
 - [type and typeinfo](https://devblogs.microsoft.com/dotnet/evolving-the-reflection-api/) `c#` `reflection`
+- [file improvements in net6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/) `net6` `file`
 
 ## blogs
 
