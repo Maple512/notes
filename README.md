@@ -17,3 +17,7 @@
 ## repositories
 
 - [Dapper.Extensions](https://github.com/1100100/Dapper.Extensions) `dapper` `orm`
+
+## others
+
+- [Connection Strings](https://www.connectionstrings.com/) `connection strings` `sql` `db`
