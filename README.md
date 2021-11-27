@@ -18,6 +18,10 @@
 
 - [Dapper.Extensions](https://github.com/1100100/Dapper.Extensions) `dapper` `orm`
 
+## codes
+
+- [ArgumentEscaper](https://github.com/dotnet/sdk/blob/2a9634f3388f3bdc18ffaae870542a8591eddeed/src/RazorSdk/Tool/CommandLine/ArgumentEscaper.cs) `process` `argument escaper`
+
 ## others
 
 - [Connection Strings](https://www.connectionstrings.com/) `connection strings` `sql` `db`
