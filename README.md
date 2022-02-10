@@ -16,7 +16,10 @@
 
 ## repositories
 
-- [Dapper.Extensions](https://github.com/1100100/Dapper.Extensions) `dapper` `orm`
+- [Dapper.Extensions](https://github.com/1100100/Dapper.Extensions) `dapper` `type mapping`
+- [dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc) `microsoftservices` `signalR`
+- [azure-signalr](https://github.com/Azure/azure-signalr) `signalR` `real-time` `azure`
+- [Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) `clean-architecture` `signalR` `oauth2` `microservices`
 
 ## codes
 
