@@ -6,6 +6,7 @@
 - [dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc) `microsoftservices` `signalR`
 - [azure-signalr](https://github.com/Azure/azure-signalr) `signalR` `real-time` `azure`
 - [Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) `clean-architecture` `signalR` `oauth2` `microservices`
+- [MessagePack](https://github.com/neuecc/MessagePack-CSharp) `Message `
 
 ## articles
 
