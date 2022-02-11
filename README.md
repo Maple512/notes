@@ -11,6 +11,7 @@
 
 - [type and typeinfo](https://devblogs.microsoft.com/dotnet/evolving-the-reflection-api/) `c#` `reflection`
 - [file improvements in net6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/) `net6` `file`
+- [System.IO.Pipelines: .NET高性能IO](https://www.cnblogs.com/xxfy1/p/9290235.html) `IO` `Pipelines`
 
 ## blogs
 
