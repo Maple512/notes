@@ -7,6 +7,8 @@
 - [azure-signalr](https://github.com/Azure/azure-signalr) `signalR` `real-time` `azure`
 - [Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) `clean-architecture` `signalR` `oauth2` `microservices`
 - [MessagePack](https://github.com/neuecc/MessagePack-CSharp) `Message `
+- [spectre.console](https://github.com/spectreconsole/spectre.console) `cli` `console`
+  - A .NET library that makes it easier to create beautiful console applications.
 
 ## articles
 
